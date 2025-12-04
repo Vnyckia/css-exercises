@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+/* class selectors */
+
+.class-text{
+    background-color:  #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 18px;
+}
+.class-text-larger{
+    font-size: 24px;
+}
+
+/* id selectors */
+#two{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four{
+    background-color: #90ee90;
+    font-weight: bold;
+}
